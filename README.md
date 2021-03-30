@@ -1,2 +1,2 @@
 # assets
-This repo contains assets that can be accessed publically.
+This repo contains assets that can be accessed publicaly.
